@@ -1,0 +1,5 @@
+Basicamente, um dos desenhos de solução seria :
+Adição de um firewall para controle de invasões e ataques DDOS
+Adição de uma camada API Management para roteamento das requisições, autenticação e proxy reverso
+Desenvolver um cluster (Kubernetes) para os novos canais 
+Configuração de um ESB para integração com o legado, integração com as interfaces fronts e integração com cluster(Kubernetes)
